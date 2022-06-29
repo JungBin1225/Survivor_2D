@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - RunTrigger
+  - PlayerUI
+  - EnemyCheck
+  - Inventory
+  - Craft
+  - Hanger
+  - Bed
+  - Trap
+  - Farming
+  - Booty
+  - Home
+  - EnemyBlock
+  - EnemyType_1
+  - EnemyType_2
+  - EnemyType_3
+  - EnemyZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3398231271
+    locked: 0
