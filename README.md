@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178148251-5b2ff101-be87-45a2-857e-1a4fca653a69.png"></p>
 
 <div align="center">
   <H1>Survivor(2D)</H1>
