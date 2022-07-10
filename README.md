@@ -17,11 +17,11 @@
   + ### 개발 형태
     + #### 팀 프로젝트
   + ### 개발 인원 및 역할
-    + #### 상명대학교 게임학과 19학번 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="프로그래머" src ="https://img.shields.io/badge/서브 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 강은영 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 고동우 - <img alt="프로그래머" src ="https://img.shields.io/badge/메인 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 상명대학교 게임학과 19학번 김미한 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/메인 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/메인 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 강은영 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(위험 구역)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 고동우 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(전투)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 김미한 - <img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(안전 구역)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 + ## **게임 상세**
   + ### 스토리
     + #### 2XXX년, 지구에 운석이 충돌해 지구는 사람이 살 수 없는 환경으로 변해버렸다. 주인공은 운 좋게 살아남았지만, 자신이 있는 안전구역 밖에는 산소도 없고 오염되어 있기 때문에 밖에서 오래 돌아다니기는 어려운 상황이다. 이런 상황에서 밖에서 자원들을 획득하여 최대한 오래 생존하는 것이 목표이다.
