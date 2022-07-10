@@ -29,4 +29,4 @@
     + #### 이 게임의 맵은 집(안전구역), 바깥(위험구역), 전투 화면으로 나뉜다. 집은 안전구역이므로 안전하게 지낼 수 있고, 모은 자원을 이용해 여러 아이템을 제작하거나 장비를 장착할 수 있다. 바깥에서는 자원을 얻을 수 있지만, 오염되어 있으므로 오염이 되지 않도록 짧은 시간에 자원을 모으고 집으로 돌아와야 한다. 밖으로 나갔을 때 몬스터를 마주치면 전투 화면으로 들어가는데, 여기에서 몬스터를 물리치면 자원을 얻을 수 있다. 이렇게 한정된 시간 내에 자원을 모아 오랫동안 생존하는 것이 목표이다.
   + ### 시연 영상
     + #### [유튜브 링크](https://youtu.be/uJfupw9e5Mk)
-    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/uJfupw9e5Mk)
+    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178148290-72a8caf0-c2df-495d-b46c-c8a8a61cd0d2.PNG)](https://youtu.be/uJfupw9e5Mk)
